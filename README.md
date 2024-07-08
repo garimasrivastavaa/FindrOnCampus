@@ -1,1 +1,1 @@
-# MedPal
+# FindrOnCampus
